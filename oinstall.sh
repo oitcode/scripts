@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Bash script to install a wordpress based site in Debian based system.
-# Author: Shyam Sitaula
+# Author: Aryan Sitaula , Shyam Sitaula
 # Liscense: GPL v2
 #
 #
